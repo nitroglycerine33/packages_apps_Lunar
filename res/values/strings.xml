@@ -21,7 +21,7 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translatable="false">Lunar</string>
+    <string name="application_name" translatable="false">Lunar Launcher</string>
     <!-- Application copyright -->
     <string name="application_copyright"></string>
     <!-- Application version -->
